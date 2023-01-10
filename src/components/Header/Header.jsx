@@ -11,6 +11,8 @@ const Title = styled.div`
   display: flex;
   justify-content: center;
   width: 50%;
+  font-size: 18px;
+  font-weight: bold;
 `;
 
 const Child = styled.div`
